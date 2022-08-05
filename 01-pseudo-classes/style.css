@@ -1,7 +1,7 @@
-seletor:pseudo-classe{
-    
+body{
+    background-color: grey;
+    color: white;
 }
-
 p:first-child{
     color: blueviolet;
 }
