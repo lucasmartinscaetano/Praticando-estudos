@@ -1,6 +1,9 @@
+
+
 body{
     background-color: grey;
     color: white;
+    text-align: center;
 }
 p:first-child{
     color: blueviolet;
